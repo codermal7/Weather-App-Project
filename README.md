@@ -4,5 +4,4 @@ This weather app is by the help of html css and javascript. The design of the ap
 One important thing i push the code on github so may be it remove my api key so you have to use your own api key here
 
 
-<img src="icons/mainpage.png">;
-<img src="icons/frontpage.png">;
+<img src="icons/frontpage.png">
